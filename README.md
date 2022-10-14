@@ -1,5 +1,4 @@
 @@ -1 +1,18 @@
-# itbootcamp_final_postman_project
 # IT Bootcamp Final Postman Project
 
 ## Tested Features:
@@ -15,6 +14,6 @@
 
 
 
-### Documentation is located at: [documentation.yaml](https://documenter.getpostman.com/view/23503063/2s8479ywFn)
+### Documentation is located at: [Postman Documentation](https://documenter.getpostman.com/view/23503063/2s8479ywFn)
 
 ### Library used: [Chai Assertion Library](https://www.chaijs.com/)
